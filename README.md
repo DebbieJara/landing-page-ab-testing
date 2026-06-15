@@ -1,6 +1,6 @@
 # 📊 Landing Page A/B Testing — Análisis de Conversión e Ingresos
 
-Análisis de prueba A/B aplicado a un experimento de landing page comparando dos variantes (página A y página B) en 40,000 usuarios. El proyecto evalúa si la nueva página genera conversiones e ingresos significativamente mayores que el control, aplicando pruebas estadísticas apropiadas para respaldar la decisión de negocio.
+Análisis de A/B testing aplicado a un experimento de landing page comparando dos variantes (página A y página B) en 40,000 usuarios. El proyecto evalúa si la nueva página genera conversiones e ingresos significativamente mayores que el control, aplicando pruebas estadísticas apropiadas para respaldar la decisión de negocio.
 
 **Herramientas:** Python · Pandas · NumPy · SciPy · statsmodels · Matplotlib
 
